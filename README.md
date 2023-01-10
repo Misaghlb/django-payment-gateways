@@ -5,6 +5,10 @@ Iraninan Gateways Implemention for Django
 1. Parsian Bank
 2. Zarinpal
 
+Install
+-----
+```pip install django-payment-gateways```
+
 Usage
 -----
 
